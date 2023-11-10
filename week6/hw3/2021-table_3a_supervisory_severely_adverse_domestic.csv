@@ -1,0 +1,14 @@
+Scenario Name,Date,Real GDP growth,Nominal GDP growth,Real disposable income growth,Nominal disposable income growth,Unemployment rate,CPI inflation rate,3-month Treasury rate,5-year Treasury yield,10-year Treasury yield,BBB corporate yield,Mortgage rate,Prime rate,Dow Jones Total Stock Market Index (Level),House Price Index (Level),Commercial Real Estate Price Index (Level),Market Volatility Index (Level)
+Supervisory Severely Adverse,2021 Q1,-5.5,-4.8,2.8,3.8,7.8,1.3,0.1,0.3,0.3,4.9,3.5,3.2,23194.5,222.8,288.2,70.0
+Supervisory Severely Adverse,2021 Q2,-4.0,-3.4,-9.9,-9.3,8.6,1.0,0.1,0.3,0.3,5.7,3.7,3.2,19178.4,213.3,279.3,65.8
+Supervisory Severely Adverse,2021 Q3,-3.3,-2.9,-4.1,-3.4,9.3,1.0,0.1,0.3,0.3,6.0,3.8,3.2,17649.8,206.0,267.4,62.0
+Supervisory Severely Adverse,2021 Q4,-1.0,-0.4,-0.6,0.2,9.7,1.2,0.1,0.3,0.3,6.0,3.8,3.2,17711.1,197.9,249.5,57.6
+Supervisory Severely Adverse,2022 Q1,-1.0,-0.1,0.3,1.1,10.1,1.2,0.1,0.3,0.3,6.0,3.8,3.2,18626.1,190.2,231.7,55.7
+Supervisory Severely Adverse,2022 Q2,-1.0,0.2,0.1,1.1,10.5,1.3,0.1,0.3,0.5,5.7,3.7,3.2,20672.2,182.4,213.9,48.6
+Supervisory Severely Adverse,2022 Q3,-0.2,1.0,0.6,1.7,10.8,1.5,0.1,0.3,0.6,5.4,3.7,3.2,22090.9,174.8,196.1,43.6
+Supervisory Severely Adverse,2022 Q4,6.7,8.3,5.2,6.5,10.2,1.6,0.1,0.3,0.8,5.1,3.6,3.2,24004.1,171.9,184.2,39.4
+Supervisory Severely Adverse,2023 Q1,6.7,8.4,5.5,7.0,9.6,1.7,0.1,0.3,0.9,4.8,3.6,3.2,25976.5,172.0,178.2,36.3
+Supervisory Severely Adverse,2023 Q2,6.7,8.5,4.9,6.4,9.1,1.8,0.1,0.4,1.1,4.5,3.5,3.2,28166.2,174.7,178.2,33.3
+Supervisory Severely Adverse,2023 Q3,6.7,8.8,4.4,6.1,8.5,2.0,0.1,0.5,1.2,4.2,3.4,3.2,30648.8,177.3,178.2,30.3
+Supervisory Severely Adverse,2023 Q4,6.7,8.9,3.9,5.7,8.0,2.1,0.1,0.6,1.3,3.9,3.4,3.2,33456.2,179.8,178.4,28.3
+Supervisory Severely Adverse,2024 Q1,6.7,9.0,3.1,5.0,7.4,2.2,0.1,0.6,1.5,3.6,3.3,3.2,36631.2,183.2,180.7,27.3
